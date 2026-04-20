@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+﻿cmake_minimum_required(VERSION 3.10)
 project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
@@ -33,3 +33,26 @@ add_executable(slide24 Luyentap_5_chuong_4/Bt1/slide24.c)
 add_executable(slide26 Luyentap_5_chuong_4/Bt1/slide26.c)
 add_executable(slide28 Luyentap_5_chuong_4/Bt1/slide28.c)
 add_executable(slide30 Luyentap_5_chuong_4/Bt1/slide30.c)
+
+# --- Luyentap_6_chuong_4 ---
+add_executable(bt2_l6c4 Luyentap_6_chuong_4/bt2.c)
+add_executable(l6c4_bt1_1 Luyentap_6_chuong_4/Bt1/1.c)
+add_executable(l6c4_bt1_2 Luyentap_6_chuong_4/Bt1/2.c)
+add_executable(l6c4_bt1_3 Luyentap_6_chuong_4/Bt1/3.c)
+add_executable(l6c4_bt1_4 Luyentap_6_chuong_4/Bt1/4.c)
+add_executable(l6c4_bt1_5 Luyentap_6_chuong_4/Bt1/5.c)
+add_executable(l6c4_bt1_7 Luyentap_6_chuong_4/Bt1/7.c)
+add_executable(l6c4_bt1_8 Luyentap_6_chuong_4/Bt1/8.c)
+add_executable(l6c4_bt1_9 Luyentap_6_chuong_4/Bt1/9.c)
+
+# --- Luyentap_7_chuong_5 ---
+add_executable(l7c5_bt1 Luyentap_7_chuong_5/bt1.c)
+add_executable(l7c5_bt2 Luyentap_7_chuong_5/bt2.c)
+add_executable(l7c5_bt3 Luyentap_7_chuong_5/bt3.c)
+add_executable(l7c5_bt4 Luyentap_7_chuong_5/bt4.c)
+add_executable(l7c5_bt5 Luyentap_7_chuong_5/bt5.c)
+add_executable(l7c5_bt6 Luyentap_7_chuong_5/bt6.c)
+add_executable(l7c5_bt7 Luyentap_7_chuong_5/bt7.c)
+add_executable(l7c5_bt8 Luyentap_7_chuong_5/bt8.c)
+add_executable(l7c5_bt9 Luyentap_7_chuong_5/bt9.c)
+add_executable(l7c5_bt10 Luyentap_7_chuong_5/bt10.c)
