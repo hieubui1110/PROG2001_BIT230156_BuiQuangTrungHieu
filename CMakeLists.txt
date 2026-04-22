@@ -4,7 +4,8 @@ project(untitled C)
 set(CMAKE_C_STANDARD 99)
 
 # --- Luyentap_chuong1 ---
-add_executable(Bt1_chuong1 Luyentap_chuong1/Bt1.c)
+add_executable(Bt1_chuong1 Luyentap_chuong1/Bt1.c
+        Luuyentap_8_Chuong_5/Bt3.c)
 add_executable(Bt2_chuong1 Luyentap_chuong1/Bt2.c)
 add_executable(Bt3_chuong1 Luyentap_chuong1/Bt3.c)
 add_executable(Bt4_chuong1 Luyentap_chuong1/Bt4.c)
